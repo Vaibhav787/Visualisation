@@ -1,5 +1,4 @@
-﻿{
-    "Sheet1": [
+﻿[
         {
             "Change Request ID": "C116129",
             "Category": "Emergency Change",
@@ -6609,4 +6608,3 @@
             "Request Start Date": "11/19/2019 4:00:00 PM"
         }
     ]
-}
